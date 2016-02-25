@@ -1,7 +1,10 @@
 HTML5 Wolfenstein 3D
 ======================
 
-This is a clone of what was released for wolfenstein 3D's 20th birthday with minor modifications to remove hard coded paths. 
+Can be played online at:
+https://mguida22.github.io/html5-wolfenstein3D/
+
+This is a clone of what was released for wolfenstein 3D's 20th birthday with minor modifications to remove hard coded paths.
 
 All property is copyright Bethesda and id software.
 [http://wolfenstein.bethsoft.com/](http://wolfenstein.bethsoft.com)
